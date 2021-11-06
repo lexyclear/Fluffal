@@ -1,2 +1,2 @@
-# doggosbot
-test bot
+# fluffalbot
+for python testing
